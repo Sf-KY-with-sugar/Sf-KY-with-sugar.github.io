@@ -6,7 +6,7 @@
   <link href="https://sf-ky-with-sugar.github.io/atom.xml" rel="self"/>
   
   <link href="https://sf-ky-with-sugar.github.io/"/>
-  <updated>2024-04-02T03:51:10.363Z</updated>
+  <updated>2024-04-02T03:53:52.876Z</updated>
   <id>https://sf-ky-with-sugar.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://sf-ky-with-sugar.github.io/post/e8be12f3.html"/>
     <id>https://sf-ky-with-sugar.github.io/post/e8be12f3.html</id>
     <published>2024-04-02T03:32:16.000Z</published>
-    <updated>2024-04-02T03:51:10.363Z</updated>
+    <updated>2024-04-02T03:53:52.876Z</updated>
     
     <content type="html"><![CDATA[<span id="more"></span><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一个新的文章"><a href="#创建一个新的文章" class="headerlink" title="创建一个新的文章"></a>创建一个新的文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>详细的: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="生成静态网站"><a href="#生成静态网站" class="headerlink" title="生成静态网站"></a>生成静态网站</h3><blockquote><p><code>hexo g</code> 是 Hexo 中用于生成（Generate）静态网站文件的命令。它会根据您在 Hexo 博客中编写的文章、页面以及主题模板等内容，生成静态的 HTML、CSS、JavaScript 文件，以便后续部署到服务器或者静态托管平台上。</p></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>详细的: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="生成静态网站文件，并部署网站"><a href="#生成静态网站文件，并部署网站" class="headerlink" title="生成静态网站文件，并部署网站"></a>生成静态网站文件，并部署网站</h3><blockquote><p><code>hexo d</code> 是 Hexo 中用于部署（Deploy）博客的命令。它会将您的静态网站文件上传到配置好的远程仓库或服务器上，使您的博客可以在互联网上访问。</p></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><h3 id="部署hexo服务器"><a href="#部署hexo服务器" class="headerlink" title="部署hexo服务器"></a>部署hexo服务器</h3><blockquote><p>启动本地服务器，用于预览主题</p></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>详细的: <a href="https://hexo.io/docs/server.html">Server</a></p>]]></content>
     
