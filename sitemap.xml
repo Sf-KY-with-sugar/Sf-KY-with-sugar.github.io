@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sf-ky-with-sugar.github.io/404/404-cat.html</loc>
-    
-    <lastmod>2024-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sf-ky-with-sugar.github.io/post/e8be12f3.html</loc>
     
     <lastmod>2024-04-02</lastmod>
@@ -56,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://sf-ky-with-sugar.github.io/archives/index.html</loc>
-    
-    <lastmod>2024-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://sf-ky-with-sugar.github.io/music/index.html</loc>
     
     <lastmod>2024-04-02</lastmod>
@@ -74,16 +56,7 @@
   </url>
   
   <url>
-    <loc>https://sf-ky-with-sugar.github.io/404/404-tencent.html</loc>
-    
-    <lastmod>2024-04-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sf-ky-with-sugar.github.io/404/404-NotFound.html</loc>
+    <loc>https://sf-ky-with-sugar.github.io/archives/index.html</loc>
     
     <lastmod>2024-04-02</lastmod>
     
