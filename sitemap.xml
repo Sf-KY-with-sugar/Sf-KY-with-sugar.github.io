@@ -4,7 +4,7 @@
   <url>
     <loc>https://sf-ky-with-sugar.github.io/post/32be9cd7.html</loc>
     
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-04-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://sf-ky-with-sugar.github.io/archives/index.html</loc>
+    <loc>https://sf-ky-with-sugar.github.io/categories/index.html</loc>
     
     <lastmod>2024-04-02</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://sf-ky-with-sugar.github.io/categories/index.html</loc>
+    <loc>https://sf-ky-with-sugar.github.io/archives/index.html</loc>
     
     <lastmod>2024-04-02</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://sf-ky-with-sugar.github.io/</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,7 +84,7 @@
   
   <url>
     <loc>https://sf-ky-with-sugar.github.io/tags/hexo/</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -93,7 +93,7 @@
   
   <url>
     <loc>https://sf-ky-with-sugar.github.io/categories/%E6%9D%82%E4%BA%8B%E8%AE%B0/</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
